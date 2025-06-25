@@ -114,20 +114,3 @@ Feel free to contribute, fork, or suggest improvements!
 ## 📜 License
 
 MIT License
-
-````
-
----
-
-## ✅ PART 2: Push to GitHub (Step-by-Step)
-
----
-
-### 🧱 Step 1: Initialize Git
-
-```bash
-cd FAST_SKILL_EXTRACTOR
-git init
-git add .
-git commit -m "Initial commit: FAST resume skill extractor"
-````
