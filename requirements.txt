@@ -1,0 +1,13 @@
+# Core NLP & matching
+scikit-learn>=1.1.0
+numpy>=1.21.0
+
+# Resume file parsing
+pdfminer.six>=20201018
+python-docx>=0.8.11
+
+# Command-line tools
+argparse>=1.4.0  # (usually built-in, but safe to include for CLI portability)
+
+# Testing
+pytest>=7.0.0
