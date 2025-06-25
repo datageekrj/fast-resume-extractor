@@ -105,8 +105,8 @@ python examples/batch_extract.py resumes/ --skills data/skills.json --topk 20 --
 
 ## 🧑‍💻 Author
 
-**\[Your Name]**
-\[Your GitHub Profile]
+**\Rahul Jha**
+\https://github.com/datageekrj
 Feel free to contribute, fork, or suggest improvements!
 
 ---
