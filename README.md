@@ -54,7 +54,7 @@ pytest tests/
 ## 🚀 CLI Usage
 
 ```bash
-python cli/main.py extract path/to/resume.pdf --skills data/skills.json --verbose
+python -m cli.main extract path/to/resume.pdf --skills data/skills.json --verbose
 ```
 
 ### Optional Flags:
